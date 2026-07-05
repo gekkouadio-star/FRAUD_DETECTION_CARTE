@@ -90,8 +90,11 @@ Taille du dataset :
 EDA.ipynb
 
 pip install -r requirements.txt
+
 python src/preprocessing.py
+
 python src/train.py
+
 python src/predict.py
 
 python app/app.py
