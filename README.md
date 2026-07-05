@@ -35,7 +35,7 @@ Détecter si une transaction bancaire est :
 
 Dataset utilisé :
 
-**PaySim**
+## PaySim
 
 Variables principales :
 
@@ -125,3 +125,5 @@ Fraud-Detection/
 ├── requirements.txt
 │
 └── README.md
+
+```
